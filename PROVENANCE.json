@@ -1,0 +1,38 @@
+{
+  "article_id": "Access-2026-50300",
+  "package_version": "1.0.0",
+  "git_tag": "v1.0.0",
+  "destination": "https://github.com/gustavosandrade/bulldog-nostril-stenosis-mtl",
+  "source_git_commit": "eeb982636cef8e51868f6590224f23e5b7ad1854",
+  "archived_audit_sha256": "1043fd7d3a854bf38b719ecec005eebc89938be706771f8037b020393c4649f8",
+  "target_source_files": [
+    {
+      "path": "target_generation/build_corrected_dataset.py",
+      "sha256": "cd402887a00c237e8bb5a751d515a03a2485a06771fdbb48583f2025270fb2b7",
+      "copied_without_changes": true
+    },
+    {
+      "path": "target_generation/refine_anatomic_masks.py",
+      "sha256": "b04ad6275e3b24c3abcc2c64d64d6a384d063cad7af2c0b1ccdb8d684e7fb80e",
+      "copied_without_changes": true
+    },
+    {
+      "path": "target_generation/build_geometric_mask_control.py",
+      "sha256": "9e0c01d79a4c1d9fc990207d709bdf528bde408012817f991b07e17c301805f6",
+      "copied_without_changes": true
+    },
+    {
+      "path": "target_generation/src/grouped_splits.py",
+      "sha256": "22a0d9c8ad3f790b92aaccf9bd6184312038d9cd06370c0b8e3ea808449790ba",
+      "copied_without_changes": true
+    },
+    {
+      "path": "target_generation/src/run_contract.py",
+      "sha256": "fd97cfecf41f1af4917912072369e37ed944c1f258cf4a134a7646967820d289",
+      "copied_without_changes": true
+    }
+  ],
+  "prediction_count": 2280,
+  "fold_metric_count": 120,
+  "fold_manifest_rows": 10200
+}

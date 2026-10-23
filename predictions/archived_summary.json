@@ -1,0 +1,278 @@
+[
+  {
+    "backbone": "mobilenetv3",
+    "condition": "baseline_categorical",
+    "fold_mean_archived": 0.43840462863445284,
+    "fold_sd_archived": 0.14452903427938155,
+    "cm": [
+      [
+        40,
+        4,
+        15
+      ],
+      [
+        27,
+        7,
+        32
+      ],
+      [
+        14,
+        3,
+        48
+      ]
+    ]
+  },
+  {
+    "backbone": "mobilenetv3",
+    "condition": "mtl_categorical_anatomico_shrink_lambda2",
+    "fold_mean_archived": 0.4096626877784729,
+    "fold_sd_archived": 0.09638338876396361,
+    "cm": [
+      [
+        38,
+        4,
+        17
+      ],
+      [
+        36,
+        6,
+        24
+      ],
+      [
+        16,
+        4,
+        45
+      ]
+    ]
+  },
+  {
+    "backbone": "mobilenetv3",
+    "condition": "mtl_categorical_corrigido_lambda2",
+    "fold_mean_archived": 0.43728249073028563,
+    "fold_sd_archived": 0.12774103177893398,
+    "cm": [
+      [
+        40,
+        5,
+        14
+      ],
+      [
+        31,
+        9,
+        26
+      ],
+      [
+        12,
+        11,
+        42
+      ]
+    ]
+  },
+  {
+    "backbone": "mobilenetv3",
+    "condition": "mtl_categorical_geometric_rectangle_lambda2",
+    "fold_mean_archived": 0.394546577334404,
+    "fold_sd_archived": 0.1053527367864973,
+    "cm": [
+      [
+        37,
+        6,
+        16
+      ],
+      [
+        25,
+        6,
+        35
+      ],
+      [
+        15,
+        8,
+        42
+      ]
+    ]
+  },
+  {
+    "backbone": "mobilenetv3",
+    "condition": "mtl_categorical_original_lambda2",
+    "fold_mean_archived": 0.39445859789848325,
+    "fold_sd_archived": 0.12072578745041262,
+    "cm": [
+      [
+        33,
+        10,
+        16
+      ],
+      [
+        28,
+        7,
+        31
+      ],
+      [
+        18,
+        2,
+        45
+      ]
+    ]
+  },
+  {
+    "backbone": "mobilenetv3",
+    "condition": "mtl_coral_anatomico_shrink_lambda2",
+    "fold_mean_archived": 0.4540315970778465,
+    "fold_sd_archived": 0.16142135780085037,
+    "cm": [
+      [
+        21,
+        34,
+        4
+      ],
+      [
+        11,
+        41,
+        14
+      ],
+      [
+        4,
+        32,
+        29
+      ]
+    ]
+  },
+  {
+    "backbone": "resnet18",
+    "condition": "baseline_categorical",
+    "fold_mean_archived": 0.3779880300164223,
+    "fold_sd_archived": 0.09838710702360288,
+    "cm": [
+      [
+        39,
+        4,
+        16
+      ],
+      [
+        32,
+        3,
+        31
+      ],
+      [
+        15,
+        8,
+        42
+      ]
+    ]
+  },
+  {
+    "backbone": "resnet18",
+    "condition": "mtl_categorical_anatomico_shrink_lambda2",
+    "fold_mean_archived": 0.4370650231838226,
+    "fold_sd_archived": 0.14427838254155423,
+    "cm": [
+      [
+        35,
+        8,
+        16
+      ],
+      [
+        25,
+        11,
+        30
+      ],
+      [
+        9,
+        8,
+        48
+      ]
+    ]
+  },
+  {
+    "backbone": "resnet18",
+    "condition": "mtl_categorical_corrigido_lambda2",
+    "fold_mean_archived": 0.455733060836792,
+    "fold_sd_archived": 0.12395854970199481,
+    "cm": [
+      [
+        38,
+        4,
+        17
+      ],
+      [
+        21,
+        14,
+        31
+      ],
+      [
+        12,
+        10,
+        43
+      ]
+    ]
+  },
+  {
+    "backbone": "resnet18",
+    "condition": "mtl_categorical_geometric_rectangle_lambda2",
+    "fold_mean_archived": 0.4601596623659134,
+    "fold_sd_archived": 0.13595318904341774,
+    "cm": [
+      [
+        36,
+        7,
+        16
+      ],
+      [
+        26,
+        12,
+        28
+      ],
+      [
+        8,
+        7,
+        50
+      ]
+    ]
+  },
+  {
+    "backbone": "resnet18",
+    "condition": "mtl_categorical_original_lambda2",
+    "fold_mean_archived": 0.45735517144203186,
+    "fold_sd_archived": 0.13560010395882938,
+    "cm": [
+      [
+        35,
+        6,
+        18
+      ],
+      [
+        26,
+        14,
+        26
+      ],
+      [
+        7,
+        14,
+        44
+      ]
+    ]
+  },
+  {
+    "backbone": "resnet18",
+    "condition": "mtl_coral_anatomico_shrink_lambda2",
+    "fold_mean_archived": 0.4624867558479309,
+    "fold_sd_archived": 0.14735774571018212,
+    "cm": [
+      [
+        22,
+        31,
+        6
+      ],
+      [
+        12,
+        39,
+        15
+      ],
+      [
+        6,
+        28,
+        31
+      ]
+    ]
+  }
+]
